@@ -17,7 +17,7 @@ To achieve our purpose we plan to:
 
 ## Deliverables
 
-- **A set of recommendation documents** that describe each individual solution we codify. These recommendations will likely evolve into actual standards blessed by an appropriate standards body, i.e. [w3c](http://www.w3c.org), [ietf](http://www.ietf.org), etc. but some many simply become defacto standards.
+- **A set of recommendation documents** that describe each individual solution we codify. These recommendations will likely evolve into actual standards blessed by an appropriate standards body, i.e. [w3c](http://www.w3c.org), [ietf](http://www.ietf.org), etc. but some may simply become defacto standards.
 - **A complete Javascript-based reference implementation** of the standard designed for actual use and for validating the compatibility of other implementations.
 
 ## Get Involved
