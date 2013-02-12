@@ -8,10 +8,10 @@ The WAI2's purpose is to establish a process to agree on practices, idioms, and 
 ## Approach
 To achieve our purpose we plan to:
 
-- Address 80 percentile use-cases and ignoring the remaining 20%.
+- Address 80 percentile use-cases and ignore the remaining 20%.
 - Provide ways to address the remaining 20% via coupled code.
 - Favor constraints vs. enabling multiple ways to do the same thing.
-- Favor many small steps vs. few large steps.
+- Favor many small steps vs. a few large steps.
 - Embrace contributions of all who embrace our mission, vision and values.
 - Accept good enough solutions vs. striving for perfection.
 
@@ -33,7 +33,7 @@ You can contribute and/pr participate by:
 - **Implementing** recommendations in other languages besides Javascript.
 
 ## Mission, Vision and Values
-This is the first draft of the 's Mission, Vision and Values.
+This is the first draft of the WAI2's Mission, Vision and Values.
 
 ### Mission
 To enable machine-to-machine interaction over the web by bringing the most active actors in the web API community to collaborate toward achieving full interoperability with a goal of
@@ -101,17 +101,17 @@ IMPORTANT: The WAI2 does not not want to new standards that doesn't need to be c
 
 
 ## People
-**Anyone can [contribute or participate](#get-involved)** but this is the initial list of people who will be invited and/or committed to steer this effort and have commit access to the GitHub repo:
+**Anyone can [contribute or participate](#get-involved)** but this is the initial list of people who will be invited and/or committed to steer this effort and have commit access to the GitHub repo _(in no particular order):_
 
 Person | Reason | Status
 -------|--------|--------
-Glenn Block<br>[@gblock](http://twitter.com/gblock)|Engineer on [Windows Azure](http://windowsazure.com)<br>Formerly vision behind [ASP.NET Web API](http://www.asp.net/web-api).<br>Co-author of [Designing Evolvable Web APIs with ASP.NET](http://shop.oreilly.com/product/0636920026617.do?sortby=publicationDate)|Participating
+Mike Admundsen<br>[@mamund](http://twitter.com/mamund)|Author of [Collection+JSON](http://amundsen.com/media-types/collection/) and [HFactors](http://amundsen.com/hypermedia/hfactor/).<br> Founder of [RESTfest](http://www.restfest.net).<br> Active on [API Craft](http://groups.google.com/group/api-craft)|Invited
+Kin Lane<br>[@kinlane](http://twitter.com/kinlane)|Lead API Evangelist at [APIEvangelist.com](http://apievangelist.com).<br>Semi-active on [API Craft](http://groups.google.com/group/api-craft)| Participating
+Kevin Swiber<br>[@kevinswiber](http://twitter.com/kevinswiber)|Author of [Siren](https://github.com/kevinswiber/siren#readme)<br>Contributor(?) to [_3rd edition of "Web API Design"_](http://blog.apigee.com/detail/api_design_third_edition_video_slides)<br>Active on [API Craft](http://groups.google.com/group/api-craft)| Participating
 Mike Kelley<br>[@mikekelly85](http://twitter.com/mikekelly85)|Author of [HAL](http://stateless.co/hal_specification.html)<br>Active on [API Craft](http://groups.google.com/group/api-craft)|Participating
-Mike Schinkel<br>[@mikeschinkel](http://twitter.com/mikeschinkel)|No good reason, except started the discussion with [this](http://groups.google.com/group/api-craft/browse_thread/thread/d231ca8116763c16/e54390a7952916e1?#e54390a7952916e1) email.<br>Also semi-active on [API Craft](http://groups.google.com/group/api-craft).|Participating
-Brian Mulloy<br>[@landlessness](http://twitter.com/landlessness)|Author _"[_Web API Design_](http://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)"_ eBook _([_3 editions_](http://blog.apigee.com/detail/api_design_third_edition_video_slides))_ <br>(Co-?)Founder of  [API Craft](http://groups.google.com/group/api-craft)<br>Affiliation: [Apigee](http://apigee.com/about/)|Invited
-Mike Admundsen<br>[@mamund](http://twitter.com/mamund)|Author of [Collection+JSON](http://amundsen.com/media-types/collection/) and [HFactors](http://amundsen.com/hypermedia/hfactor/),<br> Founder of [RESTfest](http://www.restfest.net)<br> Active on [API Craft](http://groups.google.com/group/api-craft)<br>Affiliation: [Layer7 Technologies](http://www.layer7tech.com)|Invited
-Kevin Swiber<br>[@kevinswiber](http://twitter.com/kevinswiber)|Author of [Siren](https://github.com/kevinswiber/siren#readme)<br>Contributor(?) to [_3rd edition of "Web API Design"_](http://blog.apigee.com/detail/api_design_third_edition_video_slides)<br>Active on [API Craft](http://groups.google.com/group/api-craft)|Invited
-Kin Lane<br>[@kinlane](http://twitter.com/kinlane)|Lead API Evangelist at [APIEvangelist.com](http://apievangelist.com)<br>Semi-active on [API Craft](http://groups.google.com/group/api-craft)|Invited
+Glenn Block<br>[@gblock](http://twitter.com/gblock)|Engineer on [Windows Azure](http://windowsazure.com)<br>Formerly vision behind [ASP.NET Web API](http://www.asp.net/web-api).<br>Co-author of [Designing Evolvable Web APIs with ASP.NET](http://shop.oreilly.com/product/0636920026617.do?sortby=publicationDate)|Participating
+Mike Schinkel<br>[@mikeschinkel](http://twitter.com/mikeschinkel)|Started the discussion with [this](http://groups.google.com/group/api-craft/browse_thread/thread/d231ca8116763c16/e54390a7952916e1?#e54390a7952916e1) email and this GitHub repo.<br>Author of [RESTian](https://github.com/newclarity/restian) and [Concierge](https://github.com/newclarity/concierge).<br>Semi-active on [API Craft](http://groups.google.com/group/api-craft).|Participating
+Brian Mulloy<br>[@landlessness](http://twitter.com/landlessness)|Author _"[_Web API Design_](http://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)"_ eBook _([_3 editions_](http://blog.apigee.com/detail/api_design_third_edition_video_slides))_ <br>(Co-?)Founder of  [API Craft](http://groups.google.com/group/api-craft)| Participating
 
 If your name is on the above list and this is the first you've heard of this, consider yourself invited and please [send a DM via twitter](https://twitter.com/direct_messages/create/mikeschinkel) and indicate if you'd like to be added to the  WAI2 Contributors team with push and pull access.
 
