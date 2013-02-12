@@ -133,7 +133,7 @@ Yes this is a lot of effort but it is currently [**what GitHub recommends**](htt
  **Clone** the WAI2 wiki|`git clone git@github.com:wai2/wai2.wiki.git`
  **Change** to the new local subdir|`cd wai2.wiki`
  **Remove** link to WAI2's wiki repo|`git remote rm origin`
- **Change** link to your new repo|For SSH:<br>`git remote add origin git@github.com:<USERNAME>/wai2-wiki.git`<br><br>For HTTP:<br>`git remote add origin  git://github.com/<YOUR_USERNAME>/wai2-wiki.git`<br><br>&nbsp;&nbsp;Be sure to replace `<USERNAME>` with your GitHub account user name.
+ **Change** link to your new repo|For SSH:<br>`git remote add origin git@github.com:<USERNAME>/wai2-wiki.git`<br><br>For HTTP:<br>`git remote add origin  http://github.com/<YOUR_USERNAME>/wai2-wiki.git`<br><br>&nbsp;&nbsp;Be sure to replace `<USERNAME>` with your GitHub account user name.
  **Initialize** link to your repo|`git push -u origin master`
  **Make changes** to your local repo|Use your favorite Markdown editor to make changes such as with one like [this](http://www.markdownpro.com).
  **Commit changes** to your local repo|`git commit -m "My wiki changes comment"`
